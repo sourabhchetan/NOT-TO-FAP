@@ -42,11 +42,7 @@ A simple and motivating desktop app to help you stay on track with your **NoFap 
 
 ---
 
-## 🖼️ Screenshots
 
-> Add screenshots here of your GUI and the graph view to show users what to expect.
-
----
 
 ## 📁 Files Included
 
@@ -92,4 +88,4 @@ Developed by **Sourabh Chetan** — A passionate software developer on a mission
 
 ## 🔗 Connect
 
-> Add your social links, GitHub, or website here if you'd like others to connect or contribute.
+> https://www.linkedin.com/in/-sourabhchetan
